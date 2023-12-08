@@ -98,7 +98,7 @@ public:
 
 int main()
 {
-    // Time Complexity: O(n^2) - Sort the array and apply "2 pointers" solution for each
+    // Time Complexity: O(n^2) - Sort the array and apply "2 pointers" solution for each element in the array.
     // 
     // Example 1:
     Solution s1;
